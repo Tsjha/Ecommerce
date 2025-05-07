@@ -1,8 +1,10 @@
 import React from 'react'
 
-const ShopCategory = () => {
+const ShopCategory = (category) => {
   return (
-    <div>ShopCategory</div>
+    <div className='shop-category'>
+      
+      </div>
   )
 }
 
